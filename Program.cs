@@ -6,7 +6,7 @@ namespace ConsoleCalculator
 {
     class Program
     {
-        // constant tax rate
+        // constant tax rate (5.5%)
         const decimal TAX_RATE = 0.055m; // 5.5%
 
         static void Main(string[] args)
