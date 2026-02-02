@@ -103,7 +103,7 @@ namespace ConsoleCalculator
 
             } while (continueRunning);
 
-            // Summary
+            // Summary report
             Console.WriteLine("\n===== SUMMARY =====");
             Console.WriteLine($"Total operations: {totalOperations}");
 
